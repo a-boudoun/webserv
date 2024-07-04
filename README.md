@@ -20,7 +20,7 @@ To compile , run the lines below.
 
 ```shell
 $ git clone https://github.com/moelazhari/inception.git
-$ cd inception
+$ cd webserv
 $ make
 ```
 ## Execute
